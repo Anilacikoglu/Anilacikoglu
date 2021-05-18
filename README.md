@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Anilacikoglu
+- 👀 I’m interested in frontend technologies
+- 🌱 I’m currently learning javascript
+- 📫 How to reach me anilacikoglu@gmail.com
